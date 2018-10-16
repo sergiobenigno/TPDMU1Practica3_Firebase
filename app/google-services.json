@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "495883630196",
+    "firebase_url": "https://tpdmu3base1-6495d.firebaseio.com",
+    "project_id": "tpdmu3base1-6495d",
+    "storage_bucket": "tpdmu3base1-6495d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495883630196:android:026d61797bb93979",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.sergiobenigno.tpdm_u3_ejercicio1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495883630196-ae4cuueeaop6gpsqvhsoahn59ospl03p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABTELWMVGkEN2C49sse7vcPEH2GHQC0_s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
